@@ -1,0 +1,17 @@
+ADC/filter_types.h
+ADC/filter.h
+*.bkp
+mcc_generated_files/X2CCode/mc_BASIC_dsPIC33CDVL_MCDB.xml
+*.zip
+build/
+dist/
+.generated_files/
+nbproject/private/
+nbproject/Package-default.bash
+mcc_generated_files/mcp8021.c
+MCP/_MCP_support.c
+MCP/_MCP_support.h
+nbproject/Makefile-variables.mk
+*.mk
+nbproject/Makefile-genesis.properties
+*.ctu-info
